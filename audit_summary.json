@@ -1,0 +1,1591 @@
+{
+  "bitelevate.html": {
+    "title": "BitElevate: Remote Internships &amp; Real-World Projects | Cynbit Technologies",
+    "metaDesc": "100% Remote software development internship for CSE students, engineering graduates, and BCA/MCA. Build real-world GitHub portfolio projects in Full Stack, Python, and AI with daily pull request reviews, verified certification, and placement preparation.",
+    "h1s": [
+      "Stop Watching Tutorials. Start Doing the Work."
+    ],
+    "h2Count": 9,
+    "h2s": [
+      "BitElevate",
+      "Why it is different",
+      "How it works",
+      "Remote Software Development Internship Tracks",
+      "Your daily workbench. Engineered for momentum."
+    ],
+    "formsCount": 1,
+    "inputsCount": 5,
+    "textareasCount": 1,
+    "selectsCount": 2,
+    "buttonsCount": 27,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Claim your sprint spot arrow_forward",
+        "type": "none/default",
+        "classes": "bg-primary text-white px-7 py-3 sm:px-8 sm:py-3.5 rounded-full font-bold text-sm sm:text-base shadow-xl hover:bg-primary/90 hover:-translate-y-0.5 active:scale-95 transition-all flex items-center gap-2.5 group/btn w-full sm:w-auto justify-center cursor-pointer"
+      },
+      {
+        "text": "Explore 6 industry labs expand_more",
+        "type": "none/default",
+        "classes": "bg-surface-container-highest/60 backdrop-blur-md text-on-surface px-6 py-3 sm:px-7 sm:py-3.5 rounded-full font-bold text-sm sm:text-base transition-all shadow-md hover:bg-surface-container-high hover:-translate-y-0.5 active:scale-95 border border-outline-variant/15 w-full sm:w-auto justify-center flex items-center gap-2 cursor-pointer"
+      }
+    ],
+    "linksCount": 51,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 35,
+    "imgsWithoutAltCount": 0
+  },
+  "bitelevate_paths.html": {
+    "title": "Design Your Own Career | Personalized Engineering Paths | Cynbit Technologies",
+    "metaDesc": "Stop following rigid curriculums. Design your own career path with BitElevate&#x27;s adaptive ecosystem. Choose from 16+ core dimensions including AI, Full Stack, and Cloud to build your unique technical legacy.",
+    "h1s": [
+      "Architect your  own future."
+    ],
+    "h2Count": 2,
+    "h2s": [
+      "We’ve demolished the rigid curriculum. At BitElevate, your path is an evolving ecosystem tailored to your unique professional DNA.",
+      "No two brains are alike.  Why should two curricula be?"
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 8,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Generate My Custom Path",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-4 rounded-full font-black uppercase tracking-widest text-[10px] hover:bg-primary-container hover:text-on-primary-container transition-all shadow-xl active:scale-95 text-white"
+      },
+      {
+        "text": "Join the Newsletter east",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-4 rounded-full font-black uppercase tracking-widest text-[10px] shadow-lg shadow-primary/20 hover:bg-primary-container hover:-translate-y-1 transition-all flex items-center justify-center gap-2"
+      }
+    ],
+    "linksCount": 50,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 10,
+    "imgsWithoutAltCount": 0
+  },
+  "blog.html": {
+    "title": "Insights &amp; Ideas | Cynbit Technologies | Cynbit Technologies",
+    "metaDesc": "Explore our latest thinking on IT strategy, cloud architecture, and digital transformation.",
+    "h1s": [
+      "Architecting knowledge."
+    ],
+    "h2Count": 3,
+    "h2s": [
+      "Best Business Automation Tools in 2026",
+      "More from the lab",
+      "Join 25,000+ Architects of the Future."
+    ],
+    "formsCount": 2,
+    "inputsCount": 2,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 14,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "All Insights",
+        "type": "none/default",
+        "classes": "px-6 py-2 rounded-full font-black text-[10px] uppercase tracking-widest transition-all shadow-sm hover:-translate-y-0.5 active:scale-95 bg-primary text-on-primary"
+      },
+      {
+        "text": "IT Strategy",
+        "type": "none/default",
+        "classes": "px-6 py-2 rounded-full font-black text-[10px] uppercase tracking-widest transition-all shadow-sm hover:-translate-y-0.5 active:scale-95 bg-surface-container-high text-on-surface hover:bg-primary-fixed"
+      }
+    ],
+    "linksCount": 69,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 13,
+    "imgsWithoutAltCount": 0
+  },
+  "careers.html": {
+    "title": "Careers | Cynbit Technologies | Cynbit Technologies",
+    "metaDesc": "Explore opportunities at Cynbit. We are looking for architects of the future in tech, marketing, and business.",
+    "h1s": [
+      "Explore theopportunities at Cynbit"
+    ],
+    "h2Count": 5,
+    "h2s": [
+      "Why build with us?",
+      "Our operating model.",
+      "Internship Openings",
+      "Full-Time Roles",
+      "Don&#x27;t see your role?"
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 29,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "View details",
+        "type": "none/default",
+        "classes": "w-full bg-primary/5 text-primary py-4 rounded-full text-[10px] font-black uppercase tracking-widest group-hover:bg-primary group-hover:text-white transition-all shadow-sm"
+      },
+      {
+        "text": "View details",
+        "type": "none/default",
+        "classes": "w-full bg-primary/5 text-primary py-4 rounded-full text-[10px] font-black uppercase tracking-widest group-hover:bg-primary group-hover:text-white transition-all shadow-sm"
+      }
+    ],
+    "linksCount": 72,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 7,
+    "imgsWithoutAltCount": 0
+  },
+  "case-studies.html": {
+    "title": "Cynbit Technologies | AI Automation &amp; Software Solutions Jaipur",
+    "metaDesc": "Cynbit Technologies is a premier software solutions company in Jaipur, Rajasthan. We specialize in AI automation, autonomous agents, and high-performance digital architecture for global businesses.",
+    "h1s": [
+      "From Challenge toScalable Solutions"
+    ],
+    "h2Count": 15,
+    "h2s": [
+      "AI Diagnostic Triage: Enhancing Medical Efficiency.",
+      "IoT Remote Patient Monitoring for Rural Health.",
+      "Blockchain-Lite Transparency for Sustainable Food.",
+      "Modernizing Legacy ERP for the Digital Era.",
+      "AI-Driven Adaptive Learning Pathways for EdTech."
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 13,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "All Success Stories",
+        "type": "none/default",
+        "classes": "px-6 py-2 rounded-full font-black text-[10px] uppercase tracking-widest transition-all shadow-md hover:-translate-y-0.5 active:scale-95 bg-primary text-on-primary"
+      },
+      {
+        "text": "Software Dev",
+        "type": "none/default",
+        "classes": "px-6 py-2 rounded-full font-black text-[10px] uppercase tracking-widest transition-all shadow-md hover:-translate-y-0.5 active:scale-95 bg-surface-container-high text-on-surface hover:bg-primary-fixed"
+      }
+    ],
+    "linksCount": 65,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 20,
+    "imgsWithoutAltCount": 0
+  },
+  "contact.html": {
+    "title": "Contact Us | Cynbit Technologies - AI &amp; Software Solutions | Cynbit Technologies",
+    "metaDesc": "Get in touch with Cynbit Technologies in Jaipur for expert AI automation, custom software development, and technical consulting. Let&#x27;s architect your success.",
+    "h1s": [
+      "Start Your Next Project With Us"
+    ],
+    "h2Count": 3,
+    "h2s": [
+      "The Blueprint.",
+      "Common Inquiries.",
+      "Ready to construct?"
+    ],
+    "formsCount": 1,
+    "inputsCount": 4,
+    "textareasCount": 1,
+    "selectsCount": 0,
+    "buttonsCount": 12,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Write us arrow_forward",
+        "type": "none/default",
+        "classes": "bg-primary text-white px-10 py-5 rounded-full font-bold text-lg shadow-xl hover:bg-primary/90 hover:-translate-y-1 active:scale-95 transition-all flex items-center gap-3 group/btn"
+      },
+      {
+        "text": "Secure Voice Line",
+        "type": "none/default",
+        "classes": "bg-surface-container-highest/50 backdrop-blur-md text-on-surface px-10 py-5 rounded-full font-bold text-lg transition-all shadow-lg hover:bg-surface-container-high hover:-translate-y-1 active:scale-95 border border-outline-variant/10"
+      }
+    ],
+    "linksCount": 57,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 7,
+    "imgsWithoutAltCount": 0
+  },
+  "diaries.html": {
+    "title": "Cynbit Technologies | AI Automation &amp; Software Solutions Jaipur",
+    "metaDesc": "Cynbit Technologies is a premier software solutions company in Jaipur, Rajasthan. We specialize in AI automation, autonomous agents, and high-performance digital architecture for global businesses.",
+    "h1s": [
+      "Student Diaries:Unheared Stories"
+    ],
+    "h2Count": 1,
+    "h2s": [
+      "Ready to write your story?"
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 11,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Start your story arrow_forward",
+        "type": "none/default",
+        "classes": "bg-primary text-white px-8 py-4 rounded-full font-bold text-lg shadow-md hover:bg-primary-container hover:-translate-y-1 active:scale-95 transition-all flex items-center gap-3 group/btn"
+      },
+      {
+        "text": "Share my entry",
+        "type": "none/default",
+        "classes": "bg-surface-container-highest text-on-surface px-8 py-4 rounded-full font-bold text-lg shadow-md hover:bg-surface-container-high transition-all active:scale-95 border border-outline-variant/10"
+      }
+    ],
+    "linksCount": 61,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 7,
+    "imgsWithoutAltCount": 0
+  },
+  "home.html": {
+    "title": "Cynbit Technologies | AI Automation &amp; Software Solutions Jaipur | Cynbit Technologies",
+    "metaDesc": "Cynbit Technologies is a premier software solutions company in Jaipur, Rajasthan. We specialize in AI automation, autonomous agents, and high-performance digital architecture for global businesses.",
+    "h1s": [
+      "Architecting the future withAI automation."
+    ],
+    "h2Count": 7,
+    "h2s": [
+      "Foundational pillars.",
+      "BitElevate.",
+      "The speed of a startup.The rigor of an enterprise.",
+      "Domain Mastery",
+      "How we construct digital success."
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 12,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Start discovery arrow_forward",
+        "type": "none/default",
+        "classes": "bg-primary text-white px-10 py-5 rounded-full font-bold text-lg shadow-xl hover:bg-primary/90 hover:-translate-y-1 active:scale-95 transition-all flex items-center gap-3 group/btn"
+      },
+      {
+        "text": "View work",
+        "type": "none/default",
+        "classes": "bg-surface-container-highest/50 backdrop-blur-md text-on-surface px-10 py-5 rounded-full font-bold text-lg transition-all shadow-lg hover:bg-surface-container-high hover:-translate-y-1 active:scale-95 border border-outline-variant/10"
+      }
+    ],
+    "linksCount": 66,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 7,
+    "imgsWithoutAltCount": 0
+  },
+  "impact.html": {
+    "title": "Social Impact | BitElevate &amp; Manav Seva Trust Partnership | Cynbit Technologies",
+    "metaDesc": "Cynbit Technologies is a lever for social progress. Explore our BitElevate evolution and our partnership with Manav Seva Trust to bridge the digital divide.",
+    "h1s": [
+      "Cynbit for Society"
+    ],
+    "h2Count": 3,
+    "h2s": [
+      "BitElevate evolution",
+      "Affiliation with Manav Seva Trust.",
+      "Build the future with us."
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 10,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Explore BitElevate arrow_forward",
+        "type": "none/default",
+        "classes": "bg-primary text-on-primary px-8 py-4 rounded-full font-bold text-lg shadow-md hover:bg-primary-container hover:-translate-y-1 active:scale-95 transition-all flex items-center gap-3 group/btn"
+      },
+      {
+        "text": "Partner with us",
+        "type": "none/default",
+        "classes": "bg-white text-primary px-10 py-5 rounded-full font-black uppercase tracking-widest text-[10px] shadow-xl hover:bg-slate-50 hover:-translate-y-1 active:scale-95 transition-all w-full sm:w-auto"
+      }
+    ],
+    "linksCount": 53,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 8,
+    "imgsWithoutAltCount": 0
+  },
+  "privacy.html": {
+    "title": "Privacy Policy | Cynbit Technologies | Cynbit Technologies",
+    "metaDesc": "Our commitment to data sovereignty and privacy. Clear, simple, and direct terms on how we handle information.",
+    "h1s": [
+      "Privacy Policy"
+    ],
+    "h2Count": 5,
+    "h2s": [
+      "1. Data Sovereignty",
+      "2. How We Use Information",
+      "3. Security Standards",
+      "4. Third-Party Services",
+      "5. Your Rights"
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 8,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Contact Privacy Team",
+        "type": "none/default",
+        "classes": "bg-white text-primary px-8 py-4 rounded-full font-black uppercase tracking-widest text-[10px] hover:bg-slate-50 transition-all active:scale-95 shadow-lg"
+      },
+      {
+        "text": "Join the Newsletter east",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-4 rounded-full font-black uppercase tracking-widest text-[10px] shadow-lg shadow-primary/20 hover:bg-primary-container hover:-translate-y-1 transition-all flex items-center justify-center gap-2"
+      }
+    ],
+    "linksCount": 51,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 7,
+    "imgsWithoutAltCount": 0
+  },
+  "products.html": {
+    "title": "Proprietary Software Suite | Cynbit Studio, TenantEase &amp; Revio | Cynbit Technologies",
+    "metaDesc": "Explore Cynbit&#x27;s SaaS ecosystem: Cynbit Studio for career growth, TenantEase for property management, and Revio for AI reputation intelligence.",
+    "h1s": [
+      "The Cynbit Product Ecosystem"
+    ],
+    "h2Count": 4,
+    "h2s": [
+      "Cynbit studio",
+      "TenantEase",
+      "Revio",
+      "Ready to architect your digital future?"
+    ],
+    "formsCount": 1,
+    "inputsCount": 3,
+    "textareasCount": 1,
+    "selectsCount": 0,
+    "buttonsCount": 19,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Cynbit Studio",
+        "type": "none/default",
+        "classes": "bg-primary text-white px-8 py-4 rounded-full font-bold text-lg shadow-md hover:bg-primary-container hover:-translate-y-1 active:scale-95 transition-all"
+      },
+      {
+        "text": "TenantEase",
+        "type": "none/default",
+        "classes": "bg-secondary text-white px-8 py-4 rounded-full font-bold text-lg shadow-md hover:brightness-110 hover:-translate-y-1 active:scale-95 transition-all"
+      }
+    ],
+    "linksCount": 64,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 7,
+    "imgsWithoutAltCount": 0
+  },
+  "services.html": {
+    "title": "AI Automation &amp; Software Development Services | Cynbit Technologies",
+    "metaDesc": "Explore Cynbit&#x27;s service ecosystem: Autonomous AI agents, cognitive automation, full-stack software development, cloud architecture, and technical SEO.",
+    "h1s": [
+      "Built for ScaleDesigned for Performance"
+    ],
+    "h2Count": 5,
+    "h2s": [
+      "Autonomous AI agents &amp; cognitive automation",
+      "Scalable software development &amp; cloud solutions",
+      "Data-driven marketing &amp; technical SEO engineering",
+      "Architectural tech stack.",
+      "Ready to build your digital future?"
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 13,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Start discovery arrow_forward",
+        "type": "none/default",
+        "classes": "bg-primary text-white px-10 py-5 rounded-full font-bold text-lg shadow-xl hover:bg-primary/90 hover:-translate-y-1 active:scale-95 transition-all flex items-center gap-3 group/btn"
+      },
+      {
+        "text": "Inquire east",
+        "type": "none/default",
+        "classes": "px-8 py-4 rounded-full font-black uppercase tracking-widest text-[10px] shadow-lg hover:-translate-y-1 active:scale-95 transition-all flex items-center gap-3 text-white bg-primary"
+      }
+    ],
+    "linksCount": 50,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 7,
+    "imgsWithoutAltCount": 0
+  },
+  "story.html": {
+    "title": "Our Story | The Vision Behind Cynbit Technologies | Cynbit Technologies",
+    "metaDesc": "From Jaipur to the world: The architectural narrative of Cynbit Technologies. Explore our journey from core crystallization to global AI innovation.",
+    "h1s": [
+      "Cynbit: The Story of a Vision"
+    ],
+    "h2Count": 7,
+    "h2s": [
+      "Our Vision",
+      "Our Mission",
+      "2021: Preparatory rigor.",
+      "2022: Stress testing.",
+      "2023: Finalizing the roadmap."
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 9,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Partner with us",
+        "type": "none/default",
+        "classes": "bg-white text-primary px-10 py-5 rounded-full font-black uppercase tracking-widest text-xs shadow-xl hover:bg-slate-50 hover:-translate-y-1 active:scale-95 transition-all w-full sm:w-auto"
+      },
+      {
+        "text": "Meet the architects",
+        "type": "none/default",
+        "classes": "border-2 border-white/30 text-white px-10 py-5 rounded-full font-black uppercase tracking-widest text-xs hover:bg-white/10 transition-all active:scale-95 shadow-lg w-full sm:w-auto"
+      }
+    ],
+    "linksCount": 52,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 7,
+    "imgsWithoutAltCount": 0
+  },
+  "team.html": {
+    "title": "Core Team | The Digital Architects Behind Cynbit | Cynbit Technologies",
+    "metaDesc": "Meet the inner circle at Cynbit Technologies. Lead by Mohak Saini, our board of architects brings technical rigor and systemic design to global projects.",
+    "h1s": [
+      "Meet theArchitectsbehind Cynbit"
+    ],
+    "h2Count": 3,
+    "h2s": [
+      "The core leadership",
+      "Expertise Verified.",
+      "Building the optimistic future."
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 9,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Start a conversation",
+        "type": "none/default",
+        "classes": "bg-white text-primary px-10 py-5 rounded-full font-bold text-lg shadow-xl hover:bg-slate-50 transition-all active:scale-95 w-full sm:w-auto uppercase tracking-widest"
+      },
+      {
+        "text": "View openings",
+        "type": "none/default",
+        "classes": "border-2 border-white/30 text-white px-10 py-5 rounded-full font-bold text-lg hover:bg-white/10 transition-all active:scale-95 w-full sm:w-auto uppercase tracking-widest"
+      }
+    ],
+    "linksCount": 55,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 10,
+    "imgsWithoutAltCount": 0
+  },
+  "terms.html": {
+    "title": "Terms of Service | Cynbit Technologies | Cynbit Technologies",
+    "metaDesc": "Clear and professional terms governing the use of Cynbit Technologies digital assets and services.",
+    "h1s": [
+      "Terms of Service"
+    ],
+    "h2Count": 5,
+    "h2s": [
+      "1. Agreement to Terms",
+      "2. Intellectual Property",
+      "3. Service Inquiries",
+      "4. BitElevate Program",
+      "5. Limitation of Liability"
+    ],
+    "formsCount": 0,
+    "inputsCount": 0,
+    "textareasCount": 0,
+    "selectsCount": 0,
+    "buttonsCount": 8,
+    "buttons": [
+      {
+        "text": "Company expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Expertise expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "BitElevate expand_more",
+        "type": "none/default",
+        "classes": "px-4 py-2 text-[11px] font-black uppercase tracking-[0.2em] flex items-center gap-1 transition-all hover:text-primary text-on-surface-variant"
+      },
+      {
+        "text": "Join Us",
+        "type": "none/default",
+        "classes": "hidden md:block bg-primary text-on-primary px-8 py-3 rounded-full font-black text-[10px] uppercase tracking-widest shadow-xl hover:bg-primary-container hover:-translate-y-0.5 active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "menu",
+        "type": "none/default",
+        "classes": "xl:hidden w-10 h-10 md:w-12 md:h-12 rounded-full bg-surface-container flex items-center justify-center text-on-surface active:scale-90 hover:bg-surface-container-high transition-all duration-200"
+      },
+      {
+        "text": "Get Started Now",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-6 rounded-[2rem] font-black text-sm uppercase tracking-widest shadow-2xl hover:bg-primary-container active:scale-95 transition-all duration-200"
+      },
+      {
+        "text": "Start Project Talk",
+        "type": "none/default",
+        "classes": "bg-primary text-white px-8 py-4 rounded-full font-black uppercase tracking-widest text-[10px] hover:bg-primary-container transition-all active:scale-95 shadow-lg whitespace-nowrap"
+      },
+      {
+        "text": "Join the Newsletter east",
+        "type": "none/default",
+        "classes": "w-full bg-primary text-on-primary py-4 rounded-full font-black uppercase tracking-widest text-[10px] shadow-lg shadow-primary/20 hover:bg-primary-container hover:-translate-y-1 transition-all flex items-center justify-center gap-2"
+      }
+    ],
+    "linksCount": 51,
+    "links": [
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "/story",
+        "text": "history_edu Our Story The vision behind Cynbit."
+      },
+      {
+        "href": "/team",
+        "text": "groups Our Team Meet the architects."
+      },
+      {
+        "href": "/careers",
+        "text": "work Careers Join the revolution."
+      },
+      {
+        "href": "/impact",
+        "text": "public Social Impact Our global footprint."
+      },
+      {
+        "href": "/services",
+        "text": "terminal Services Hub Tailored tech solutions."
+      },
+      {
+        "href": "/products",
+        "text": "inventory_2 Product Suite Next-gen toolkits."
+      },
+      {
+        "href": "/case-studies",
+        "text": "auto_graph Case Studies Real-world results."
+      },
+      {
+        "href": "/bitelevate",
+        "text": "school The Ecosystem Unstructured learning."
+      },
+      {
+        "href": "/bitelevate/paths",
+        "text": "route Learning Paths Architect your future."
+      }
+    ],
+    "totalImgs": 7,
+    "imgsWithoutAltCount": 0
+  }
+}

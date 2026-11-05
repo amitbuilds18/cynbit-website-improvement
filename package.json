@@ -1,0 +1,14 @@
+{
+  "name": "cynbit-website-improvement",
+  "version": "1.0.0",
+  "description": "Cynbit Technologies — BitElevate Talent & Recruitment Ecosystem (Full Stack Assessment)",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build",
+    "test:server": "node server/test/test_api.js"
+  },
+  "keywords": ["cynbit", "bitelevate", "full-stack", "mern", "pern", "neon", "postgresql", "react"],
+  "author": "Full Stack Developer Intern Candidate",
+  "license": "ISC"
+}
